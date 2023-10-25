@@ -87,14 +87,28 @@ Before you begin, ensure that you have the following prerequisites installed on 
    pip install -r requirements.txt
    ```
 
-6. **Open the Project in VSCode:**
+6. Installation and Setup for the OpenAI API key:
+
+   (Optional preference) For the OpenAI API key:
+   - This step is not mandatory for running the notebook but can be completed independently if needed. To obtain an OpenAI API key, follow these instructions:
+     - Sign up for an OpenAI API key at [OpenAI](https://platform.openai.com/signup).
+     - Once you have an API key, got to the notebook and replace `YOUR_API_KEY_HERE` with your actual OpenAI API key.
+
+
+6.a. (Optional) If you want to use OpenAI's tokenizer (available for Python 3.9+) and instead decide to not run the requirements.txt, install Tiktoken directly with bash:
+   ```bash
+   pip install tiktoken
+   ```
+
+7. **Open the Project in VSCode:**
 
    Launch VSCode and open the project folder by selecting "File" > "Open Folder" and choosing the project directory.
 
-7. **Start Coding:**
+8. **Start Coding:**
 
    You're now all set to work on the project in VSCode. Open the Python files, modify the code, and run the notebooks as needed.
 
+-------
 ## Feedback and Contributions
 
 Just read the LICENCE but as a TL;DR: If you encounter issues, have suggestions, or want to contribute to this project, please open an issue or a pull request. Feel free to add your name in the contribution list if you add something cool.

@@ -142,4 +142,12 @@ Before you begin, ensure that you have the following prerequisites installed on 
 Just read the LICENCE but as a TL;DR: If you encounter issues, have suggestions, or want to contribute to this project, please open an issue or a pull request. Feel free to add your name in the contribution list if you add something cool.
 Your feedback and contributions are highly appreciated!
 
+## About me
+
+- **Repository Name:** PDF-Extraction-and-Querying-using-LangChain-and-OpenAI-Embeddings
+- **Creator:** Kokit0
+- **Version:** 1.0.0
+- **Contact:** [Kokit0 | Kokke]([https://github.com/YourGitHubUsername](https://github.com/Kokit0))
+
+
 Happy coding, nerdos! 🚀

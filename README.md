@@ -5,8 +5,9 @@ Hey there. Kokke here 👋
 
 # Introduction
 
-Welcome to our GenAI project, where we're about to dive headfirst into the riveting world of PDF querying, all thanks to Langchain (yeah, I know, "PDFs" and "exciting" don't usually go hand in hand, but let's make it sound cool). But what's Langchain, you ask? Well, consider it your digital detective, your trusty sidekick, ready to help you navigate the labyrinth of PDF documents.
+Welcome to our GenAI project, where we're about to dive headfirst into the riveting world of PDF querying, all thanks to Langchain (yeah, I know, "PDFs" and "exciting" don't usually go hand in hand, but let's make it sound cool). Many times, in my daily tasks, I've encountered a common challenge – the need to extract valuable information from content that's already available online but locked in unyielding formats like PDFs. While PDFs are fantastic for viewing and presenting information, they often act as the final barrier in the chain of knowledge. Extracting data from them and integrating it into our systems for informed and data-driven decisions can be a daunting task. This tool is my solution to automate and simplify this process, making it easier for me to swiftly adapt and utilize the wealth of information that's out there in the digital world.
 
+But what's Langchain, you ask? Well, consider it your digital detective, your trusty sidekick, ready to help you navigate the labyrinth of PDF documents.
 Langchain, a Large Language Model (LLM), is your unwavering companion on this adventure. It's equipped with the extraordinary power to extract keywords, phrases, and sentences from PDFs, all at the snap of your fingers (well, a few lines of code, to be precise). In essence, it transforms these seemingly impenetrable PDFs into a goldmine of insights.
 
 Now, let's delve into "The Idea" behind this project, where we'll explore how this digital buddy, fueled by Langchain, simplifies your life. No more manual PDF sifting; we're here to harness the magic of technology to extract, process, and analyze text data, turning it into a formidable tool for research and data analysis. So, without further ado, let's embark on this PDF querying escapade, where Langchain is your guiding star in the world of digital documents. 🕵️‍♂️📄💼
@@ -28,6 +29,18 @@ Okay, let's get a bit technical first (just a smidge). We'll be harnessing the f
 - **Tiktoken**: It's like the clicker you use to count sheep, but for tokens. Tiktoken is a handy library for counting the number of tokens in a text string. It's our token-counter extraordinaire, helping us keep track of the language model's workload.
 
 These technologies are the gears in our PDF-reading machine, working together to make our PDF querying adventure possible. we wil use Jupyter notebook or Colab to take our investigation ahead and make it work and later, maybe you can drop it into production for a more robust end-to-end Project or for a consistant personal assistant for your day to day work.
+
+## What are embeddings?
+OpenAI’s text embeddings measure the relatedness of text strings. Embeddings are commonly used for:
+
+- **Search** (where results are ranked by relevance to a query string)
+- **Clustering** (where text strings are grouped by similarity)
+- **Recommendations** (where items with related text strings are recommended)
+- **Anomaly detection** (where outliers with little relatedness are identified)
+- **Diversity measurement** (where similarity distributions are analyzed)
+- **Classification** (where text strings are classified by their most similar label)
+  
+An embedding is a vector (list) of floating point numbers. The distance between two vectors measures their relatedness. Small distances suggest high relatedness and large distances suggest low relatedness.
 
 ## The Results: What to Expect from This Tool
 

@@ -1,6 +1,8 @@
 # PDF-Extraction-and-Querying-using-LangChain-and-OpenAI-Embeddings
 PDF Text Extraction and Querying using LangChain and OpenAI Embeddings.
 
+Hey there. Kokke here 👋
+
 ## Introduction
 
 Welcome to our GenAI project, where we're about to dive headfirst into the riveting world of PDF querying, all thanks to Langchain (yeah, I know, "PDFs" and "exciting" don't usually go hand in hand, but let's make it sound cool). But what's Langchain, you ask? Well, consider it your digital detective, your trusty sidekick, ready to help you navigate the labyrinth of PDF documents.
@@ -32,7 +34,7 @@ These technologies are the gears in our PDF-reading machine, working together to
 
 Before you begin, ensure that you have the following prerequisites installed on your system:
 
-- [Python](https://www.python.org/) (recommended version: 3.7+)
+- [Python](https://www.python.org/) (recommended version: tokenizer is only available for 3.9+)
 - [VSCode](https://code.visualstudio.com/)
 
 ## Getting Started

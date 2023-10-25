@@ -147,7 +147,7 @@ Your feedback and contributions are highly appreciated!
 - **Repository Name:** PDF-Extraction-and-Querying-using-LangChain-and-OpenAI-Embeddings
 - **Creator:** Kokit0
 - **Version:** 1.0.0
-- **Contact:** [Kokit0 | Kokke]([https://github.com/YourGitHubUsername](https://github.com/Kokit0))
+- **Contact:** [Kokit0 | Kokke](https://github.com/Kokit0)
 
 
 Happy coding, nerdos! 🚀

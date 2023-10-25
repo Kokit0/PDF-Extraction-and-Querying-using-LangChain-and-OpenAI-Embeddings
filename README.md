@@ -3,7 +3,7 @@ PDF Text Extraction and Querying using LangChain and OpenAI Embeddings.
 
 Hey there. Kokke here 👋
 
-## Introduction
+# Introduction
 
 Welcome to our GenAI project, where we're about to dive headfirst into the riveting world of PDF querying, all thanks to Langchain (yeah, I know, "PDFs" and "exciting" don't usually go hand in hand, but let's make it sound cool). But what's Langchain, you ask? Well, consider it your digital detective, your trusty sidekick, ready to help you navigate the labyrinth of PDF documents.
 
@@ -28,6 +28,22 @@ Okay, let's get a bit technical first (just a smidge). We'll be harnessing the f
 - **Tiktoken**: It's like the clicker you use to count sheep, but for tokens. Tiktoken is a handy library for counting the number of tokens in a text string. It's our token-counter extraordinaire, helping us keep track of the language model's workload.
 
 These technologies are the gears in our PDF-reading machine, working together to make our PDF querying adventure possible. we wil use Jupyter notebook or Colab to take our investigation ahead and make it work and later, maybe you can drop it into production for a more robust end-to-end Project or for a consistant personal assistant for your day to day work.
+
+## The Results: What to Expect from This Tool
+
+Curious about what this PDF-querying tool we've created can do for you? Let's break it down:
+
+- **Tech Marvel**: This project assembles a dream team of Langchain, PyPDF2, OpenAI Embeddings, and other tech marvels. Think of them as the Avengers of PDF analysis, working together to make magic happen.
+- **Limitless Potential**: The sky's the limit! Whether you're into research, content analysis, or data extraction, this tool is your Swiss Army knife for handling PDFs. It's versatile, adaptable, and ready to revolutionize the way you deal with document data.
+- **Constructive Criticism**: Every hero has a weakness, right? In this case, our kryptonite is images in PDFs – we can't process them (yet). But don't worry; it's a small trade-off for the wealth of textual information we can unlock.
+- **The Big Reveal**: The most exciting part? The results! Langchain's ability to unveil valuable information from PDFs is a game-changer. It simplifies tasks, saves you precious time, and turns your daily quest for data within PDFs into a delightful breeze.
+
+## Conclusion
+
+So there you have it, our little PDF query adventure with Langchain. This powerful tool can simplify your daily tasks and help you uncover the gems hidden in your PDF documents. Whether it's for work, research, or just satisfying your curiosity, Langchain is your go-to companion in the digital detective world.
+
+So go ahead, make your PDF searching adventures a breeze with Langchain. Happy PDF hunting! 🕵️‍♂️📄💼
+
 
 # Get it running on your VSCode (or any other IDE you like)
 ## Prerequisites

@@ -55,9 +55,9 @@ Curious about what this PDF-querying tool we've created can do for you? Let's br
 
 So there you have it, our little PDF query adventure with Langchain. This powerful tool can simplify your daily tasks and help you uncover the gems hidden in your PDF documents. Whether it's for work, research, or just satisfying your curiosity, Langchain is your go-to companion in the digital detective world.
 
-So go ahead, make your PDF searching adventures a breeze with Langchain. Happy PDF hunting! 🕵️‍♂️📄💼
+Now, everything is self-contained in the Notebook (Jupyter Notebook / Colab Notebook) attached to our project. except the OpenAI APIKEY you require for this project, everything else is self-contained inside the notebook so go ahead, make your PDF searching adventures a breeze with Langchain. Happy PDF hunting! 🕵️‍♂️📄💼
 
-
+-------
 # Get it running on your VSCode (or any other IDE you like)
 ## Prerequisites
 

@@ -87,12 +87,11 @@ Before you begin, ensure that you have the following prerequisites installed on 
    pip install -r requirements.txt
    ```
 
-6. Installation and Setup for the OpenAI API key:
-
-   (Optional preference) For the OpenAI API key:
-   - This step is not mandatory for running the notebook but can be completed independently if needed. To obtain an OpenAI API key, follow these instructions:
+6. (Optional preference) Installation and Setup for the OpenAI API key:
+   
+   - This step is not mandatory for running the notebook per se. To obtain an OpenAI API key, follow these instructions:
      - Sign up for an OpenAI API key at [OpenAI](https://platform.openai.com/signup).
-     - Once you have an API key, got to the notebook and replace `YOUR_API_KEY_HERE` with your actual OpenAI API key.
+     - Once you have an API key, got to the notebook and replace `YOUR_API_KEY_HERE` with your actual OpenAI API key. Look for the "" and simply insert.
 
 
 6.a. (Optional) If you want to use OpenAI's tokenizer (available for Python 3.9+) and instead decide to not run the requirements.txt, install Tiktoken directly with bash:
